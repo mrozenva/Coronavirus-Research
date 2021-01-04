@@ -1,5 +1,5 @@
 <p>
-<img src="Images/Coronavirus.jpeg" width="900" height="300">
+<img src="Images/Coronavirus.jpeg" width="800" height="300">
 </p>
 
 # Coronavirus-Research
